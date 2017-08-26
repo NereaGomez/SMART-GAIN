@@ -1,0 +1,26 @@
+Partlist exported from C:/Users/media/Documents/eagle/F72RB/ESQUEMATICO_BASICO2.sch at 26/08/2017 17:22
+
+Part    Value          Device          Package        Description                MF MPN     OC_FARNELL OC_NEWARK PROD_ID  VALUE
+C1      0.33 uF        C-EU050-030X075 C050-030X075   CAPACITOR, European symbol                                               
+C2      0.1 uF         C-EU050-030X075 C050-030X075   CAPACITOR, European symbol                                               
+CAN_VCC CAN_VCC        PINHD-1X1       1X01           PIN HEADER                                                               
+CN7     CN7            PINHD-2X19      2X19           PIN HEADER                                                               
+CN10    CN10           PINHD-2X19      2X19           PIN HEADER                                                               
+IC1     7805T          7805T           TO220H         Positive VOLTAGE REGULATOR                                               
+R1      330            R-EU_0207/10    0207/10        RESISTOR, European symbol                                                
+R2      47K            R-EU_0207/10    0207/10        RESISTOR, European symbol                                                
+R3      47K            R-EU_0207/10    0207/10        RESISTOR, European symbol                                                
+R4      10K            R-EU_0207/10    0207/10        RESISTOR, European symbol                                                
+R5      10K            R-EU_0207/10    0207/10        RESISTOR, European symbol                                                
+U$1     MQ135          MQ135           MQ135                                                                                   
+U$2     MQ7            MQ7             MQ7                                                                                     
+U$3     LDR            LDR             LDR                                                                                     
+U$4     GROVE_SOUND    GROVE_SOUND     GROVE_SOUND                                                                             
+U$5     BMP280         BMP280          BMP280                                                                                  
+U$6     SD_CARD        SD_CARD         SD_CARD                                                                                 
+U$7     CAN_BREADBOARD CAN_BREADBOARD  CAN_BREAKBOARD                                                                          
+U$8     SI7021         SI7021          SI7021                                                                                  
+U$9     FONA           FONA            FONA                                                                                    
+U$10    CO2_GROVE      CO2_GROVE       CO2_GROVE                                                                               
+U1      LM358          LM358           DIP08          LM358                                                      IC-09172 LM358
+X1                     W237-102        W237-102       WAGO SCREW CLAMP              237-102 unknown    70K9898                 
